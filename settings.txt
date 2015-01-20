@@ -1,0 +1,6 @@
+dinner
+movies
+coffee
+bar
+hotel
+Toronto
